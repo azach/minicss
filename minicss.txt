@@ -1,0 +1,32 @@
+/* reset a few things */
+body {
+ margin: 0;
+ padding: 0;
+}
+/**************/
+/* color of background */
+#wrapper {
+ background: #CCC;
+}
+
+/
+*
+this is my comment
+*
+/
+
+
+
+
+/*
+test
+/*
+test
+*/
+test
+*/
+#container {
+ width: 990px; /* test */
+/* two comments /* in one place */ written here */ margin: 0px auto;
+ background: #FFF;/*te/*s*/t*/
+}
